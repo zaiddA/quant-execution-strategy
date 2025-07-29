@@ -8,14 +8,14 @@ This repository contains my submission for **Task 2** of the Blockhouse Quant Re
 
 ## 📂 Files Included
 
-- `main.ipynb`: Jupyter notebook containing full analysis:
+- `Blockhouse_Pract.ipynb`: Jupyter notebook containing full analysis:
   - Data loading and preprocessing
   - Slippage simulation
   - Model fitting (linear vs. power-law)
   - Robust aggregation of impact parameters
   - Execution scheduling comparison
 
-- `extracted_data.py`: Helper script to safely extract `.zip` files and sanitize filenames (e.g. replace `:` with `_`).
+- `extract_all_data.py`: Helper script to safely extract `.zip` files and sanitize filenames (e.g. replace `:` with `_`).
 
 ---
 
