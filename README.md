@@ -1,4 +1,4 @@
-# quant-execution-strategy
+# Quant-Execution-Strategy
 
 # Blockhouse Work Trial – Temporary Impact Modeling
 
